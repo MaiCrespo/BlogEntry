@@ -1,0 +1,20 @@
+function App() {
+  return (
+    <div>
+      <h2>My blog</h2>
+      <BlogEntry />
+      <BlogEntry />
+      <BlogEntry />
+    </div>
+  );
+}
+function BlogEntry() {
+  return (
+    <div>
+      <h1>Hello Mai</h1>
+      <p>lorem ipsum dolor sit amet</p>
+      <button>Click me</button>
+    </div>
+  );
+}
+export default App;

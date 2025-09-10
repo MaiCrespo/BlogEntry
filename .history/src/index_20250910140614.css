@@ -1,0 +1,12 @@
+h2 {
+  color: maroon;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+.entry {
+  margin: 1em auto;
+  width: 50%;
+  border: 1px solid rgb(57, 18, 18);
+  border-radius: 10px;
+  padding: 1em;
+}
